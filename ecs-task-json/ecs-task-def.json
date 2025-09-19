@@ -19,12 +19,11 @@
           "name": "ENV",
           "value": "production"
         }
-      ],
-      
+      ]
     }
   ],
   "requiresCompatibilities": ["FARGATE"],
   "cpu": "256",
   "memory": "512",
-  "executionRoleArn": "arn:aws:iam::617842004789:role/AmazonECSTaskExecutionRolePolicy"
+  "executionRoleArn": "arn:aws:iam::617842004789:role/ecsTaskExecutionRole"
 }

@@ -44,8 +44,9 @@ jobs:
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
           task-definition: ecs-task-json/ecs-task-def.json
-          service: my-ecs-service
-          cluster: my-ecs-cluster
+          service: flash-task-service-oqqa0cb7
+          cluster: flask-app
           wait-for-service-stability: true
+
 
 

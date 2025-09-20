@@ -89,6 +89,3 @@ Contributions are welcome! Open issues or submit pull requests. Make sure to tes
 * [GitHub Actions Deployment to AWS](https://docs.github.com/en/actions/deployment/targeting-aws-environments)
 * [CI/CD with GitHub Actions and ECS Tutorial](https://dev.to/aws-builders/deploy-app-on-aws-ecs-fargate-using-github-actions-13mf)
 
-```
-
-

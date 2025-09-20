@@ -76,8 +76,7 @@ aws ecs describe-tasks --cluster flask-app --tasks <task-arn>
 
 # 2. Send an HTTP request to the running Flask app
 curl http://<public-ip>:5000
-
-
+```
 ## 📄 Contributing
 
 Contributions are welcome! Open issues or submit pull requests. Make sure to test changes locally before submitting.
